@@ -1,5 +1,7 @@
 # network_streamlit_test
 
+ [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://networkapptest-loureiro.streamlit.app/)
+
 ## Como rodar localmente
 
 1. Clone o repositório  
